@@ -26,3 +26,7 @@ These professionals act like ethical hackers, actively testing defenses by tryin
 - **Bug Bounty Hunter**: Independent or freelance security researchers who search for software vulnerabilities and get paid per confirmed defect discovered.
 
 ### 3. The Engineering & Architecture Track (Builders)
+
+- **Security Architecture**: They designs the high-level security framework, master blueprints, and strategic defensive models (like Zero Trust architecture) for the enterprise.
+- **Cloud Security Engineer**: They focuses specifically on securing cloud platforms (AWS, Azure, GCP) and cloud-native applications.
+- **DevSecOps Engineer**: These people embeds security checks directly into software development and automated deployment pipelines.
