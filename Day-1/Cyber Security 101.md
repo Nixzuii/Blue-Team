@@ -30,3 +30,12 @@ These professionals act like ethical hackers, actively testing defenses by tryin
 - **Security Architecture**: They designs the high-level security framework, master blueprints, and strategic defensive models (like Zero Trust architecture) for the enterprise.
 - **Cloud Security Engineer**: They focuses specifically on securing cloud platforms (AWS, Azure, GCP) and cloud-native applications.
 - **DevSecOps Engineer**: These people embeds security checks directly into software development and automated deployment pipelines.
+
+### 4. GRC (Governance, Risk, and Compliance) & Management
+
+This side focuses on business risk, corporate policy, and legal requirements rather than hands-on technical hacking.
+
+- **GRC Analyst / Risk Manager**: Their main job is to map security controls to industry standards (like ISO 27001 or GDPR), manages audits, and runs risk assessments.
+- **Data Protection Officer (DPO) / Privacy Officer**:  These people oversees personal data handling, user privacy rights, and regulatory compliance.
+- **Chief Information Security Officer (CISO)**: The top executive in charge of the entire cyber security strategy, risk posture, and reporting to the board of directors.
+
