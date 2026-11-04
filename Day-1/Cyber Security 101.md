@@ -1,0 +1,28 @@
+# Introduction to Cyber Security
+
+Cybersecurity is the practice of protecting computer systems, networks, programs and digital data from digital threats like attackers who is trying to break into systems to cause damage or steal data or information's. Cyber security relies on three foundational principles known as the **CIA Triad**.
+
+- **Confidentiality**: It ensures that the sensitive data is only accessible by the authorized people or systems. If an unauthorized person or system access these sensitive data then the confidentiality is lost.
+- **Integrity**: It ensures data isn't tampered or corrupted by any unauthorized entity while data is in transit or idle. Example if a text file is stored in a system and some one changes the content without proper authorization then integrity is lost.
+- **Availability**: It guarantees that systems, services or data remain reliable or accessible whenever needed. If system is down due to a natural disaster, a power failure or DDOS attack then the availability is compromised or lost.
+
+## Roles in Cyber security
+
+The cybersecurity ecosystem features a diverse selection of job tracks. Finding the right fit depends entirely on how your mind works—whether you prefer building, breaking, defending, or investigating.
+
+### 1. The Defensive Track (Blue Team)
+
+These professionals are the guardians who monitor systems, detect anomalies, and repel attacks in real-time.
+
+- **SOC Analyst (Security Operations Center)**: They are the first line of defense. They monitor network traffic and security alerts to identify and flag active threats.
+- **Incident Response**: They are the digital fighters. When a breach occurs, they step in to contain the damage, eliminate the threat, and restore systems.
+- **Cloud Security Engineer**: Specilized people in securing cloud environments like AWS, Azure, and GCP as organizations migrate to the cloud.
+
+### 2. The Offensive Track (Red Team)
+
+These professionals act like ethical hackers, actively testing defenses by trying to break into them before real cybercriminals do.
+
+- **Penetration Tester (Pen Tester)**: They conducts authorized, simulated attacks on web apps, networks, and systems to find exploitable security flaws.
+- **Bug Bounty Hunter**: Independent or freelance security researchers who search for software vulnerabilities and get paid per confirmed defect discovered.
+
+### 3. The Engineering & Architecture Track (Builders)
